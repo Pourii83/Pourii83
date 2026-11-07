@@ -62,6 +62,16 @@ I care about **architecture, naming, clean code** and a UI that feels finished. 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### Productivity & collaboration
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Text Editing](https://img.shields.io/badge/Text%20Editing-000000?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![OpenProject](https://img.shields.io/badge/OpenProject-1A67A3?style=for-the-badge&logo=openproject&logoColor=white)
+![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![Jitsi](https://img.shields.io/badge/Jitsi-1D76BA?style=for-the-badge&logo=jitsi&logoColor=white)
+
 ### AI-assisted engineering
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 

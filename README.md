@@ -109,67 +109,13 @@ I care about **architecture, naming, clean code** and a UI that feels finished. 
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured projects
 
-I'd be happy if you take a look and tell me what you think.
-
-### 💬 Apps & platforms
-
-<p align="center">
-  <a href="https://github.com/Pourii83/Flock">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Flock&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Flock&title_color=B26B00&icon_color=B26B00&hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Flock&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" alt="Flock" />
-  </picture>
-  </a>
-</p>
-
-Self-hosted messenger: chats, end-to-end encrypted secret chats, voice/video calls, screen sharing and meeting links for guests. React Native (web, Android, Windows) + Node.js + PostgreSQL, with a one-line installer and a `flockctl` server manager.
-
-### 🧠 Developer tools
-
-<p align="center">
-  <a href="https://github.com/Pourii83/Engineering-Vault-Template">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Engineering-Vault-Template&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Engineering-Vault-Template&title_color=B26B00&icon_color=B26B00&hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Engineering-Vault-Template&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" alt="Engineering-Vault-Template" />
-  </picture>
-  </a>
-</p>
-
-A plain-Markdown "second brain" for developers: one folder per project plus shared rules, snippets and lessons, built to work with Claude Code.
-
-### 🎮 Game addons (Lua)
-
-<p align="center">
-  <a href="https://github.com/Pourii83/InkCast">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=InkCast&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=InkCast&title_color=B26B00&icon_color=B26B00&hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=InkCast&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" alt="InkCast" />
-  </picture>
-  </a>
-  <a href="https://github.com/Pourii83/Inkmap">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Inkmap&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Inkmap&title_color=B26B00&icon_color=B26B00&hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=Inkmap&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" alt="Inkmap" />
-  </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Pourii83/TalentPlus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=TalentPlus&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=TalentPlus&title_color=B26B00&icon_color=B26B00&hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pourii83&repo=TalentPlus&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&hide_border=true" alt="TalentPlus" />
-  </picture>
-  </a>
-</p>
-
-Cast bars, a better world map, and talents that can't be learned by accident, for a vanilla (1.12) WoW client.
+| Project | What it is |
+|---|---|
+| 🐦 **[Flock](https://github.com/Pourii83/Flock)** | Self-hosted messenger: chats, end-to-end encrypted secret chats, voice/video calls, screen sharing and meeting links. React Native (web, Android, Windows) + Node.js + PostgreSQL, with a one-line installer and a `flockctl` server manager. |
+| 🧠 **[Engineering Vault Template](https://github.com/Pourii83/Engineering-Vault-Template)** | A plain-Markdown "second brain" for developers: one folder per project plus shared rules, snippets and lessons. Built to work with Claude Code. |
+| ⚔️ **[InkCast](https://github.com/Pourii83/InkCast)** · **[Inkmap](https://github.com/Pourii83/Inkmap)** · **[TalentPlus](https://github.com/Pourii83/TalentPlus)** | Lua addons for a vanilla (1.12) WoW client: cast bars, a better world map, and talents that can't be learned by accident. |
 
 Plus private client work: nopCommerce storefronts, themes and plugins, and in-house .NET systems.
 

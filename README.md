@@ -124,21 +124,3 @@ I care about **architecture, naming, clean code** and a UI that feels finished. 
 | ⚔️ **[InkCast](https://github.com/Pourii83/InkCast)** · **[Inkmap](https://github.com/Pourii83/Inkmap)** · **[TalentPlus](https://github.com/Pourii83/TalentPlus)** | Lua addons for a vanilla (1.12) WoW client: cast bars, a better world map, and talents that can't be learned by accident. |
 
 Plus private client work: nopCommerce storefronts, themes and plugins, and in-house .NET systems.
-
----
-
-### ✍️ Random dev quote
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random dev quote" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=500&size=20&duration=3000&pause=800&color=FFB547&center=true&vCenter=true&width=460&lines=Thanks+for+visiting+my+profile!;Let's+build+something+together" alt="Thanks for visiting" />
-</div>

@@ -66,7 +66,9 @@ Plus private client work: nopCommerce storefronts, themes and plugins, and in-ho
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pourii83&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB547&icon_color=FFB547&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pourii83&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB547&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pourii83&theme=github_dark" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pourii83&theme=github_dark" alt="Top languages" />
+<br/>
+<img height="165" src="https://streak-stats.demolab.com?user=Pourii83&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFB547&fire=FFB547&currStreakLabel=FFB547" alt="Contribution streak" />
 
 </div>

@@ -64,7 +64,7 @@ I care about **architecture, naming, clean code** and a UI that feels finished. 
 
 ### Productivity & collaboration
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge)
 ![Text Editing](https://img.shields.io/badge/Text%20Editing-000000?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![OpenProject](https://img.shields.io/badge/OpenProject-1A67A3?style=for-the-badge&logo=openproject&logoColor=white)

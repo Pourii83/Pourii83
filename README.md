@@ -68,10 +68,6 @@ I care about **architecture, naming, clean code** and a UI that feels finished. 
 ### Game modding
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### 😉 Also playing on
-
-![Battle.net](https://img.shields.io/badge/Battle.net-00AEFF?style=for-the-badge&logo=battledotnet&logoColor=white)
-
 ---
 
 ## 🏆 GitHub trophies
